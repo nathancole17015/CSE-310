@@ -22,8 +22,8 @@ public class paint {
         frame.addMouseMotionListener(new MouseMotionAdapter() {
             @Override
             public void mouseDragged(MouseEvent e) {
-                x2 = e.getX();
-                y2 = e.getY();
+                int x2 = e.getX();
+                int y2 = e.getY();
 
                 
                  g.setColor(Color.RED);
