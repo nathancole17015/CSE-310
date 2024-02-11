@@ -8,6 +8,10 @@
     height: 200px;
     border: 1px solid black;
 }
+#restartButton{
+    top: 150px;
+    left: 480px;
+}
 #character {
     width: 20px;
     height: 50px;

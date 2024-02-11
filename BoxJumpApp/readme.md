@@ -8,7 +8,7 @@
 
 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=GheQTWXYC8c)
 
 # Development Environment
 

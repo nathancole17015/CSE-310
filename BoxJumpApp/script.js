@@ -18,8 +18,7 @@ function updateScore(){
 }
 
 function restartGame() {
-    character.style.top = "150px";
-    block.style.left = "480px";
+    
     block.style.animation = "block 1s infinite linear";
     score = 0;
     scoreDisplay.innerText = "Score: 0";
