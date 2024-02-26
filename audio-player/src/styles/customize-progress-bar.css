@@ -16,7 +16,6 @@ input[type="range"] {
   cursor: pointer;
 }
 
-/* Input range - firefox */
 input[type="range"]::-moz-range-track {
   position: relative;
   background:#ccc;
@@ -26,11 +25,10 @@ input[type="range"]::-moz-range-track {
   cursor: pointer;
 }
 
-/* played progress length - Chrome & safari*/
 input[type="range"]::before {
   content: '';
   height: 2px;
-  background: #f50;
+  background: #D72600;
   width: var(--range-progress);
   border-bottom-left-radius: 2px;
   border-top-left-radius: 2px;
@@ -41,7 +39,7 @@ input[type="range"]::before {
 
 /* played progress length - firefox */
 input[type="range"]::-moz-range-progress {
-  background: #f50;
+  background: #D72600;
   border-bottom-left-radius: 2px;
   border-top-left-radius: 2px;
   height: 2px;
@@ -54,7 +52,7 @@ input[type="range"]::-webkit-slider-thumb {
   width: 8px;
   border-radius: 50%;
   border: none;
-  background-color: #f50;
+  background-color: #D72600;
   cursor: pointer;
   position: relative;
 }
@@ -69,7 +67,7 @@ input[type="range"]::-moz-range-thumb {
   height: 8px;
   width: 8px;
   border-radius: 50%;
-  background: #f50;
+  background: #D72600;
   cursor: pointer;
   border: transparent;
   position: relative;
