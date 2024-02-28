@@ -1,6 +1,6 @@
 import { useState, useEffect, useRef, useCallback } from 'react';
 
-// icons
+
 import {
   IoPlayBackSharp,
   IoPlayForwardSharp,

@@ -1,8 +1,8 @@
 # Overview
 
-{For this project I wanted to create an audio player using the coding language}
+{For this project I wanted to create an webapp audio player using the coding language React. I never used React before but have created websites with javascript in the past.}
 
-{Provide a description the web app that you wrote. Describe how to start a test server on your computer and what website to open up to see the first page of the app.}
+{My webapp audio player allows a user to play a audio file. With will show the name and artist of the audio file. You'll be able to skip forward and back 15 seconds. You'll also be able to skip or skim the audio file. To start the sever all you'll have to do is get in the audio-player directory and then in the terminal npm start.}
 
 {I wanted to demonstrate an ability to code in the coding language of react.}
 
@@ -12,23 +12,23 @@
 
 # Web Pages
 
-{Describe each of the web pages you created and how the web app transitions between each of them.  Also describe what is dynamically created on each page.}
+{There's currently only web page but multiple audio files that you can skip to.}
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+{I used the some examples of audio player other have used . I used the websites to see react's library and how to use it. }
 
 {Describe the programming language that you used and any libraries.}
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+
+* [LogRocket: Fronted Analytics ](https://blog.logrocket.com/react-icons-comprehensive-tutorial-examples/)
+* [React](https://react.dev/)
 
 # Future Work
 
 {Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+* I would have liked a way to add more songs
+* Be abl to look through the files to find audio file
+* Make it useable on a mobile device
