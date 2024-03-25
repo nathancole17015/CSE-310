@@ -85,6 +85,4 @@ for x in myActorInMovieResult:
 myGenre.close()
 
 
-
-
 mydb.close()
